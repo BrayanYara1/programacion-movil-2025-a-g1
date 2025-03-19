@@ -1,0 +1,3 @@
+## Base de Datos
+
+El backend utiliza una base de datos para almacenar y gestionar la información de la aplicación. Se puede integrar con bases de datos SQL como PostgreSQL o bases de datos NoSQL como MongoDB, dependiendo de los requisitos específicos del proyecto. La base de datos se encarga de almacenar datos de usuarios, transacciones, configuraciones y otros elementos esenciales para el funcionamiento de la aplicación.
