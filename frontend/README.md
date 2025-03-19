@@ -1,0 +1,3 @@
+## Frontend
+
+El frontend del proyecto está diseñado para interactuar con el backend a través de la API RESTful. Está desarrollado utilizando tecnologías modernas como React o Angular para construir una interfaz de usuario dinámica y receptiva. El frontend se encarga de la presentación de datos, la navegación de la aplicación y la interacción del usuario, proporcionando una experiencia de usuario fluida y eficiente.
